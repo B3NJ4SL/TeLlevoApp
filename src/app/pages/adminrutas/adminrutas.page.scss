@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Yatra+One&display=swap');
+
+.fondo{
+    --background: url('../../../assets/img/fondo_app.jpg')0/200% 60%;
+}
+.fondo-header{
+    background-color: rgb(0, 0, 0);
+}
+.titulo{
+    font-family: 'Yatra One', cursive;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    display: flex;
+   }
+.selec{    
+    text-align: center;    
+    margin-top: 5px;
+}
+.fondo h1{
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    margin-bottom: 15px;
+
+    
+}
+.btn-1{
+    margin: 25px;
+    margin-top: 10px;
+}
+
+.ruta{
+    margin-top: 5px;
+    background-color: white;
+    margin: 15px;
+    padding: 3px;
+    display: flex;
+}
+.ruta-1{
+    margin-top: 5px;
+    background-color: white;
+    margin: 15px;
+    padding: 3px;
+    display: flex;
+}
+.fondo h4{
+    text-align: left;
+    margin-left: 15px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;   
+
+}

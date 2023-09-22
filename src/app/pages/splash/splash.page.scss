@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Yatra+One&display=swap');
+
+.fondo{
+    --background: url('../../../assets/img/fondo_app.jpg')0/200% 60%;
+}
+.contenedor-logo{
+    border: solid 7px rgb(0, 0, 0);
+    background: linear-gradient(90deg, rgb(1, 81, 255) 0%, rgba(0,0,0,0) 15%, rgba(0,6,6,0) 85%, rgba(1, 255, 234) 100%);
+}
+.contenedor-logo ion-img{
+    width: 260px;
+    height: 100px;
+    margin: auto;
+    
+    
+    
+}
+
+.titulo{
+    text-align: center;
+    margin-top: 5px;
+    font-size: 50px;
+    color: white;
+    font-family: 'Yatra One', cursive;
+    
+    
+
+}
+.subtitulo{
+    text-align: center;
+    margin-top: 5px;
+    font-size: 85px;
+    color: white;
+    font-family: 'Yatra One', cursive;
+    margin-bottom: 1px;
+}
